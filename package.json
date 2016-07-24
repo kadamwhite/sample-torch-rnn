@@ -1,0 +1,13 @@
+{
+  "name": "poststatus-gen",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A script to interactively sample a neural network trained on poststatus.com content",
+  "main": "generate.js",
+  "scripts": {
+    "start": "node generate"
+  },
+  "author": "K. Adam White",
+  "license": "MIT",
+  "dependencies": {}
+}
